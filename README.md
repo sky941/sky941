@@ -1,4 +1,4 @@
-# Hi, I'm Akash Gupta 👋
+# Hi, I'm Akaash Gupta 👋
 
 ### AI Engineer | Agentic AI | Mobile & On-Device AI
 
