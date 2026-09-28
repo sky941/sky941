@@ -104,32 +104,42 @@ Building and deploying **production-ready AI applications**, from experimentatio
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Featured Projects
 
 ### 🛡️ Privacy Sentinel AI
-**On-Device AI • Android • Kotlin • Computer Vision**
+Privacy-focused Android AI system that detects unauthorized viewers using
+real-time face recognition and protects sensitive screen content.
 
-Privacy-focused Android AI system that detects unauthorized viewers
-using real-time face recognition and protects sensitive screen content.
+🏆 **Top 20 Project — AI Mobile Hackathon**
 
-🏆 Selected among the **Top 20 projects at the AI Mobile Hackathon**
+**Tech:** Kotlin • Android • Computer Vision • On-Device AI
 
 ---
 
-### 🤖 WhatsApp Business Support Automation
-**Python • FastAPI • Twilio • Webhooks • Automation**
+### 📱 SONOTO AI
+AI-powered mobile assistant for understanding on-screen content, translation,
+smart rewriting, and contextual response generation.
 
-WhatsApp automation backend for intelligent customer support,
-webhook processing, structured conversations, and business workflows.
+Built around Android accessibility and intelligent mobile workflows to bring
+AI assistance directly into the user's on-device experience.
+
+**Tech:** Kotlin • Mobile AI • Accessibility • GenAI • On-Device Intelligence
+
+---
+
+### 💬 WhatsApp Business Support Automation
+Backend automation system for WhatsApp business communication,
+webhook processing, structured customer support, and automated workflows.
+
+**Tech:** Python • FastAPI • Twilio • Webhooks • Automation
 
 ---
 
 ### 👁️ Face Match
-**Python • Computer Vision • Face Recognition • REST API**
+Computer Vision system for face detection, recognition,
+identity verification, and similarity matching.
 
-AI-powered face matching system for real-time face detection,
-recognition, identity verification, and similarity matching.
-
+**Tech:** Python • Computer Vision • Face Recognition • REST API
 ---
 
 ## 🔭 Currently Exploring
