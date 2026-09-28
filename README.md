@@ -62,7 +62,7 @@ My work sits at the intersection of **AI + Mobile + Real-World Products** — co
 
 ---
 
-### 🚀 AI Application Deployment & Production
+### 🚀 Production AI & Deployment
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
@@ -77,7 +77,7 @@ Building and deploying **production-ready AI applications**, from experimentatio
 
 ---
 
-### 🧑‍💻 AI-Assisted Development
+### 🧑‍💻 AI-Assisted Engineering
 
 ![Claude](https://img.shields.io/badge/Claude-AI_Coding-D97757)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-AI_Development-412991)
