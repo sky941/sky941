@@ -80,8 +80,8 @@ Interested in collaborating on:
 
 **Agentic AI • GenAI • AI-powered Mobile Products • On-Device AI • Open Source • Developer Communities**
 
-💼 LinkedIn: Add your LinkedIn URL  
-📧 Email: Add your professional email
+💼 LinkedIn: https://www.linkedin.com/in/akaash-gupta-844a6281/ 
+📧 Email: akashgupta941@gmail.com
 
 ---
 
