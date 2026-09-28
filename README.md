@@ -21,21 +21,36 @@ My work sits at the intersection of **AI + Mobile + Real-World Products** — co
 
 ## 🛠️ Tech Stack
 
-**AI & GenAI**
+### AI & GenAI
 
-`Python` • `LLMs` • `AI Agents` • `RAG` • `LangChain` • `LangGraph` • `Gemini` • `OpenAI` • `Google ADK`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-Agentic_AI-blue)
+![RAG](https://img.shields.io/badge/RAG-LLM_Systems-blue)
 
-**Mobile & On-Device AI**
+### Mobile & On-Device AI
 
-`Kotlin` • `Android` • `Flutter` • `TensorFlow Lite` • `ML Kit` • `CameraX`
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![ML Kit](https://img.shields.io/badge/ML_Kit-On--Device_AI-blue)
 
-**Backend**
+### Backend & APIs
 
-`FastAPI` • `Java` • `Spring Boot` • `REST APIs` • `PostgreSQL` • `SQL`
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-**Tools & Platforms**
+### Tools & Platforms
 
-`Git` • `Docker` • `Supabase` • `Azure DevOps` • `Postman`
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
