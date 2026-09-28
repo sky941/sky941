@@ -101,40 +101,42 @@ Building and deploying **production-ready AI applications**, from experimentatio
 
 ---
 
-## 🔬 Featured Projects
+## 🚀 Featured Projects
 
-### 🛡️ [Privacy Sentinel AI](https://github.com/sky941/Privacy-Sentinel-AI)
-AI-powered mobile privacy system that uses real-time face recognition and on-device intelligence to detect unauthorized viewers and protect sensitive content.
+### 🛡️ Privacy Sentinel AI
+**On-Device AI • Android • Kotlin • Computer Vision**
 
-**Tech:** Kotlin • CameraX • ML Kit • TensorFlow Lite • Computer Vision • On-Device AI
+Privacy-focused Android AI system that detects unauthorized viewers
+using real-time face recognition and protects sensitive screen content.
 
----
-
-### 🤖 AI Social Media Automation
-AI-powered SaaS platform for content generation, image creation, and automated social media publishing workflows.
-
-**Tech:** Python • FastAPI • Next.js • Supabase • GenAI • Social APIs
+🏆 Selected among the **Top 20 projects at the AI Mobile Hackathon**
 
 ---
 
-### 📱 SONOTO AI
-AI-powered mobile assistant for understanding on-screen content, translation, smart rewriting, and contextual response generation.
+### 🤖 WhatsApp Business Support Automation
+**Python • FastAPI • Twilio • Webhooks • Automation**
 
-**Tech:** Kotlin • Mobile AI • Accessibility • GenAI • On-Device Intelligence
-
----
-
-## 🎓 AI / ML
-
-Completed the **Machine Learning & Deep Learning Certificate Programme at IIT Delhi (CEP)**.
-
-Currently focused on taking AI beyond prototypes into **production-ready applications, AI agents, and intelligent mobile systems**.
+WhatsApp automation backend for intelligent customer support,
+webhook processing, structured conversations, and business workflows.
 
 ---
 
-## 🌱 Current Focus
+### 👁️ Face Match
+**Python • Computer Vision • Face Recognition • REST API**
 
-**Agentic AI • AI Engineering • On-Device AI • Multimodal AI • AI × Mobile • Production GenAI Systems**
+AI-powered face matching system for real-time face detection,
+recognition, identity verification, and similarity matching.
+
+---
+
+## 🔭 Currently Exploring
+
+- Agentic AI systems
+- AI Agents for Mobile
+- On-Device AI
+- Tool / Function Calling
+- Multimodal AI
+- AI-powered automation
 
 I'm especially interested in building AI systems that can **understand context, reason, use tools, and take actions** inside real-world applications.
 
