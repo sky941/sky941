@@ -39,22 +39,26 @@ My work sits at the intersection of **AI + Mobile + Real-World Products** — co
 
 ---
 
-## 🔬 Featured Work
+## 🔬 Featured Projects
 
-### 🛡️ Privacy Sentinel AI
-An AI-powered mobile privacy system designed to detect unauthorized viewers using real-time face recognition and on-device intelligence.
+### 🛡️ [Privacy Sentinel AI](https://github.com/sky941/Privacy-Sentinel-AI)
+AI-powered mobile privacy system that uses real-time face recognition and on-device intelligence to detect unauthorized viewers and protect sensitive content.
 
-**Tech:** Kotlin • CameraX • ML Kit • TensorFlow Lite • On-Device AI
+**Tech:** Kotlin • CameraX • ML Kit • TensorFlow Lite • Computer Vision • On-Device AI
+
+---
 
 ### 🤖 AI Social Media Automation
-AI-powered SaaS platform for generating content, images, and automating social media publishing workflows.
+AI-powered SaaS platform for content generation, image creation, and automated social media publishing workflows.
 
-**Tech:** FastAPI • Next.js • Supabase • GenAI • Social APIs
+**Tech:** Python • FastAPI • Next.js • Supabase • GenAI • Social APIs
+
+---
 
 ### 📱 SONOTO AI
-Intelligent mobile assistant for understanding on-screen content, translation, smart rewriting, and contextual response generation.
+AI-powered mobile assistant for understanding on-screen content, translation, smart rewriting, and contextual response generation.
 
-**Focus:** Mobile • Accessibility • GenAI • On-Device Intelligence
+**Tech:** Kotlin • Mobile AI • Accessibility • GenAI • On-Device Intelligence
 
 ---
 
