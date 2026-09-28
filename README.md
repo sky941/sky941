@@ -1,21 +1,24 @@
 # Hi, I'm Akaash Gupta 👋
 
-### AI Engineer | Agentic AI | Mobile & On-Device AI
+### AI Engineer | Agentic AI | End-to-End AI Development | Mobile & On-Device AI
 
-I'm a software engineer with 10 years of experience in mobile application development, now focused on building intelligent AI-powered products and agentic systems.
+I'm a software engineer with **10 years of experience building mobile applications**, now focused on building **end-to-end, production-ready AI systems, AI agents, and intelligent applications**.
 
-My work sits at the intersection of **AI + Mobile + Real-World Products** — combining deep mobile engineering experience with Generative AI, AI Agents, Computer Vision, and on-device intelligence.
+My work sits at the intersection of **AI + Mobile + Real-World Products** — combining deep mobile engineering experience with **Agentic AI, Generative AI, Computer Vision, backend APIs, automation, and on-device intelligence**.
+
+I enjoy taking AI products from **idea → prototype → integration → deployment → production**.
 
 ---
 
 ## 🚀 What I'm Building
 
 - 🤖 Agentic AI systems and autonomous workflows
+- 🔄 End-to-end AI applications — from prototype to production
 - 📱 AI-powered mobile applications
 - 🧠 On-device AI and intelligent edge experiences
 - 👁️ Computer Vision and real-time ML applications
-- 🔗 LLM-powered applications, tools and automation
-- ⚡ Production AI APIs and backend services
+- 🔗 LLM applications, tool calling, APIs, and automation
+- ⚡ Production AI backends and integrations
 
 ---
 
