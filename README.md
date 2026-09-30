@@ -159,7 +159,7 @@ I'm especially interested in building AI systems that can **understand context, 
 
 Interested in collaborating on:
 
-**Agentic AI • GenAI • AI-powered Mobile Products • On-Device AI • Open Source • Developer Communities**
+**Agentic AI • GenAI • AI-powered Mobile Products • On-Device AI • Computer vision • Open Source • Developer Communities**
 
 💼 LinkedIn: https://www.linkedin.com/in/akaash-gupta-844a6281/ 
 📧 Email: akashgupta941@gmail.com
