@@ -2,6 +2,10 @@
 
 ### AI Engineer | Agentic AI | End-to-End AI Development | Mobile & On-Device AI
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8K%2B%20Network-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akaash-gupta-844a6281/)
+![IIT Delhi](https://img.shields.io/badge/IIT%20Delhi-ML%20%26%20Deep%20Learning-B01C2E?style=flat)
+![Experience](https://img.shields.io/badge/Experience-10%2B%20Years-333333?style=flat)
+
 I'm a software engineer with **10 years of experience building mobile applications**, now focused on building **end-to-end, production-ready AI systems, AI agents, and intelligent applications**.
 
 My work sits at the intersection of **AI + Mobile + Real-World Products** — combining deep mobile engineering experience with **Agentic AI, Generative AI, Computer Vision, backend APIs, automation, and on-device intelligence**.
@@ -19,6 +23,21 @@ I enjoy taking AI products from **idea → prototype → integration → deploym
 - 👁️ Computer Vision and real-time ML applications
 - 🔗 LLM applications, tool calling, APIs, and automation
 - ⚡ Production AI backends and integrations
+
+---
+
+## 🎓 Education & Certification
+
+### 🏛️ Indian Institute of Technology Delhi (IIT Delhi)
+
+**Certificate Programme in Machine Learning & Deep Learning**  
+*Department of Electrical Engineering — Continuing Education Programme*
+
+📅 **January 2025 – September 2025**
+
+Successfully completed the **Machine Learning and Deep Learning** certificate programme at **IIT Delhi**, strengthening my foundation in AI/ML alongside 10+ years of software engineering experience.
+
+**Focus:** Machine Learning • Deep Learning • Neural Networks • Computer Vision • Python • Applied AI
 
 ---
 
@@ -140,7 +159,25 @@ Computer Vision system for face detection, recognition,
 identity verification, and similarity matching.
 
 **Tech:** Python • Computer Vision • Face Recognition • REST API
+
 ---
+
+## 🌍 Community Leadership
+
+### 👥 Community Manager — AI Mobile Coders
+
+Contributing to and helping grow **AI Mobile Coders**, a community of **3,500+ developers** exploring the intersection of **AI and Mobile Engineering**.
+
+As a **Community Manager**, I support:
+
+- 🤝 Developer engagement and community growth
+- 🎤 AI & Mobile technical sessions and events
+- 🧪 Hands-on workshops and learning initiatives
+- 🤖 Agentic AI and Mobile AI discussions
+- 🌱 Collaboration between AI and mobile developers
+- 🚀 Open-source and community-driven initiatives
+
+**Community Focus:** AI • Mobile AI • Agentic AI • On-Device AI • Developer Ecosystem
 
 ## 🔭 Currently Exploring
 
